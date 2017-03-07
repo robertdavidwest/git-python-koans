@@ -42,7 +42,7 @@ Work quickly if you must but be sure that your results are correct!
 * pull the latest code from dev. Does `contemplate_koans.py` still run? 
 * If not, then still in your teams work on the following files:
     
-    * Team A: `about_tuples`.py`
+    * Team A: `about_tuples.py`
     * Team B: `about_true_and_false.py`
     * Team C: `about_sets.py`
 
