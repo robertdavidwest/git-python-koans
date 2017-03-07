@@ -35,7 +35,7 @@ should you run into any *conflicts* on the way be ready to solve them without vi
 
 a student once came to his teacher and said:
 
-    "I really want to learn zen." The teacher said: "You must do this for ten years. You must just sit as if you are an ancient pine tree in the forest. Every moment bring your attention back to your koan. The student said: "Ten years is far too long. I'm in a great hurry. How long will it take if I really work hard. The teacher said: Oh, then it should be twenty years."
+"I really want to learn zen." The teacher said: "You must do this for ten years. You must just sit as if you are an ancient pine tree in the forest. Every moment bring your attention back to your koan. The student said: "Ten years is far too long. I'm in a great hurry. How long will it take if I really work hard. The teacher said: Oh, then it should be twenty years."
 
 Work quickly if you must but be sure that your results are correct! 
 
