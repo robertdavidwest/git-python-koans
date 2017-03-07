@@ -46,4 +46,5 @@ Work quickly if you must but be sure that your results are correct!
     * Team B: `about_true_and_false.py`
     * Team C: `about_sets.py`
 
-* But this time, theres a catch! The push/pull commands are now off limits! See if you can still work together to *fetch* a solution! 
+As with task I, the final solution is only attainable if your teams work together! You will once again have to share your code with each other, but this time, theres a catch! The push/pull commands are now off limits! See if you can still *merge* together to *fetch* a solution!
+ 
