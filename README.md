@@ -1,4 +1,4 @@
-## First Session: All Git - No Stash
+## Remedy Python Koans 
 
 ### Setup
 
@@ -18,20 +18,9 @@ You will need to use your keenly developed Python skills within your team and to
 * read the onscreen output. What do you need to change in the code for this script to run successfully?
 * each team should work on the below files:
 
-    * Team A
-
-        * `about_asserts.py`
-        * `about_dictionaries.py`
-
-    * Team B
-
-        * `about_asserts.py`
-        * `about_lists.py`
-
-    * Team C
-
-        * `about_asserts.py`
-        * `about_tuples.py`
+    * Team A: `about_asserts.py`, `about_strings.py`
+    * Team B: `about_asserts.pt`, 'about_lists.py`
+    * Team C: `about_asserts.py`, `about_dictionaries.py`
 
 * when you have done all you can do on your files:
    
@@ -43,3 +32,18 @@ You will need to use your keenly developed Python skills within your team and to
 should you run into any *conflicts* on the way be ready to solve them without violence if possible!
 
 ### Task II
+
+a student once came to his teacher and said:
+
+    "I really want to learn zen." The teacher said: "You must do this for ten years. You must just sit as if you are an ancient pine tree in the forest. Every moment bring your attention back to your koan. The student said: "Ten years is far too long. I'm in a great hurry. How long will it take if I really work hard. The teacher said: Oh, then it should be twenty years."
+
+Work quickly if you must but be sure that your results are correct! 
+
+* pull the latest code from dev. Does `contemplate_koans.py` still run? 
+* If not, then still in your teams work on the following files:
+    
+    * Team A: `about_tuples`.py`
+    * Team B: `about_true_and_false.py`
+    * Team C: `about_sets.py`
+
+* But this time, theres a catch! The push/pull commands are now off limits! See if you can still work together to *fetch* a solution! 
