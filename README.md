@@ -19,7 +19,7 @@ You will need to use your keenly developed Python skills within your team and to
 * each team should work on the below files:
 
     * Team A: `about_asserts.py`, `about_strings.py`
-    * Team B: `about_asserts.pt`, 'about_lists.py`
+    * Team B: `about_asserts.pt`, `about_lists.py`
     * Team C: `about_asserts.py`, `about_dictionaries.py`
 
 * when you have done all you can do on your files:
