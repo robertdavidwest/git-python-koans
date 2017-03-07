@@ -4,7 +4,7 @@
 
 * Split yourselve into 3 teams: Team-A, Team-B, Team-C
 * One member of each team should clone this repository
-* then create a new local branch from `dev` on your machine
+* then, in your respective teams, create a new local branch from `dev` on your machine named `team-x` for x in {A, B, C}
 
 ### Task I
 
