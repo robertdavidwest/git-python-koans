@@ -55,7 +55,9 @@ When this task is complete be sure to delete any local branches that you no long
 
 ### Task III - Bonus Task (All teams must finish Task II before any team attempts Task III - in the meantime you may assist other teams)
 
-oh no! Looks like there was some important text accidentally placed in one of the functions in Task II! We need to retrieve that text! But would you believe it, it looks like the Stash server is down again! You're going to have to use your *head* to find another way to look back for the missing text. This is now a race between teams. The first team to enter the text in this readme below this paragraph on the dev branch and push up to stash will win! 
+oh no! Looks like there was some important text accidentally placed in one of the functions in Task II! We need to retrieve that text! But would you believe it, it looks like the Stash server is down again! You're going to have to use your *head* to find another way to *checkout* the missing text. This is now a race between teams. 
+
+The first team to enter the text in this readme below this paragraph on the dev branch and push up to stash will win! 
 
 Once you've found the text 
 
