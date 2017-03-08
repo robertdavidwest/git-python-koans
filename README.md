@@ -4,7 +4,7 @@
 
 * Split yourselve into 3 teams: Team-A, Team-B, Team-C
 * One member of each team should clone this repository
-* then, in your respective teams, create a new local branch from `dev` on your machine named `team-x` for x in {A, B, C}
+* then, in your respective teams, create a new local branch from `dev` on your machine named `team-x-task-i` for x in {A, B, C}
 
 ### Task I
 
@@ -31,7 +31,9 @@ You will need to use your keenly developed Python skills within your team and to
 
 should you run into any *conflicts* on the way be ready to solve them without violence if possible!
 
-### Task II
+When this task is complete be sure to delete any local branches that you no longer need. 
+
+### Task II (All teams must finish Task I before any team attempts Task II)
 
 a student once came to his teacher and said:
 
@@ -39,7 +41,8 @@ a student once came to his teacher and said:
 
 Work quickly if you must but be sure that your results are correct! 
 
-* pull the latest code from dev. Does `contemplate_koans.py` still run? 
+* pull the latest code from dev. Then make another branch from dev: `team-X-task-II`
+* Does `contemplate_koans.py` still run? 
 * If not, then still in your teams work on the following files:
     
     * Team A: `about_tuples.py`
@@ -47,4 +50,12 @@ Work quickly if you must but be sure that your results are correct!
     * Team C: `about_sets.py`
 
 As with task I, the final solution is only attainable if your teams work together! You will once again have to share your code with each other, but this time, theres a catch! The push/pull commands are now off limits! See if you can still *merge* together to *fetch* a solution!
- 
+
+When this task is complete be sure to delete any local branches that you no longer need. 
+
+### Task III - Bonus Task (All teams must finish Task II before any team attempts Task III)
+
+oh no! Looks like there was some important text accidentally placed in one of the functions in Task II! We need to retrieve that text! But would you believe it, it looks like the Stash server is down again! You're going to have to use your *head* to find another way to look back for the missing text. This is now a race between teams. The first team to enter the text in this readme below this paragraph on the dev branch and push up to stash will win! 
+
+Once you've found the text 
+
