@@ -33,7 +33,7 @@ should you run into any *conflicts* on the way be ready to solve them without vi
 
 When this task is complete be sure to delete any local branches that you no longer need. 
 
-### Task II (All teams must finish Task I before any team attempts Task II)
+### Task II (All teams must finish Task I before any team attempts Task II - in the meantime you may assist other teams)
 
 a student once came to his teacher and said:
 
@@ -53,7 +53,7 @@ As with task I, the final solution is only attainable if your teams work togethe
 
 When this task is complete be sure to delete any local branches that you no longer need. 
 
-### Task III - Bonus Task (All teams must finish Task II before any team attempts Task III)
+### Task III - Bonus Task (All teams must finish Task II before any team attempts Task III - in the meantime you may assist other teams)
 
 oh no! Looks like there was some important text accidentally placed in one of the functions in Task II! We need to retrieve that text! But would you believe it, it looks like the Stash server is down again! You're going to have to use your *head* to find another way to look back for the missing text. This is now a race between teams. The first team to enter the text in this readme below this paragraph on the dev branch and push up to stash will win! 
 
