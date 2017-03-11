@@ -1,4 +1,4 @@
-## Remedy Python Koans 
+## Git Python Koans 
 
 ### Setup
 
@@ -14,7 +14,7 @@ When you are suddenly facing the end of life, what will you use to fend off birt
 
 You will need to use your keenly developed Python skills within your team and to collaborate with each other team using Git and Stash to successfully complete Task I
 
-* run `remedy-python-koans/koans/python2/contemplate_koans.py`
+* run `git-python-koans/koans/python2/contemplate_koans.py`
 * read the onscreen output. What do you need to change in the code for this script to run successfully?
 * each team should work on the below files:
 
